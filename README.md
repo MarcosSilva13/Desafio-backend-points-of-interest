@@ -1,6 +1,6 @@
 # Desafio-backend-points-of-interest
 <p>
-  Api para controle de pontos de interesse por GPS. Desenvolvida com Java e Spring Boot.
+  Api para controle de pontos de interesse por GPS.
 </p>
 
 <h2> Tecnologias utilizadas </h2>
